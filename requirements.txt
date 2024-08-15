@@ -1,0 +1,6 @@
+anyascii==0.3.2
+GitPython==3.1.31
+grip==4.6.1
+notion2md==2.8.2
+notion_client==2.0.0
+pypandoc==1.11
